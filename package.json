@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@uiw/react-md-editor": "^3.25.6",
+    "@wysimark/react": "^1.0.55",
     "next": "14.0.3",
     "next-remove-imports": "^1.0.12",
     "react": "^18",
